@@ -1,4 +1,4 @@
-package com.architectural.mvvm.sample;
+package com.example.architectural.sample2;
 
 import org.junit.Test;
 
