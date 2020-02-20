@@ -1,5 +1,7 @@
 package test;
 
+import com.google.common.hash.HashCode;
+
 import java.util.HashMap;
 import java.util.Iterator;
 

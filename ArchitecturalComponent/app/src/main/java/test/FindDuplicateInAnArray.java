@@ -1,7 +1,11 @@
 package test;
 
+import com.google.common.hash.HashCode;
+
 import java.util.Arrays;
 import java.util.HashSet;
+
+import static java.lang.Math.abs;
 
 public class FindDuplicateInAnArray {
     static int arr[] = {7, 3, 5, 4, 5};
